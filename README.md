@@ -45,8 +45,8 @@ Estudante de **Engenharia de Software na UBEC-TO (UniCatólica do Tocantins)** e
 ### 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willyandouglaslima09&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyandouglaslima09&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=willyandouglaslima09-debug&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyandouglaslima09-debug&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="170"/>
 </p>
 
 ---
